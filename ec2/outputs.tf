@@ -9,4 +9,3 @@ output "private_ip" {
 output "instance_id" {
     value = aws_instance.module_example.id
 }
-}

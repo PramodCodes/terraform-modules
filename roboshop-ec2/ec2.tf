@@ -1,4 +1,4 @@
-module "roboshop-ec2" {
+module "roboshop_ec2" {
 # similar to calling function we have source
 # navigate one directory up and goto ec2
   source = "../ec2"
